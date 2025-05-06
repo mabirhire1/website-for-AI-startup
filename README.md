@@ -1,6 +1,6 @@
 # NeuralVision AI - Development Workflow Guide
 
-Welcome to the NeuralVision AI repository! This README outlines our Git workflow for development contributions.
+Welcome to the OMAX.AI repository! This README outlines our Git workflow for development contributions.
 
 ## Repository Structure
 
@@ -16,7 +16,7 @@ Our application consists of:
 
 1. Clone the repository
    ```
-   git clone https://github.com/neuralvision-ai/website.git
+   git clone https://github.com/website-for-AI-startup.git
    cd website
    ```
 
@@ -111,8 +111,8 @@ Our application consists of:
 
 ## Contact
 
-For questions about this workflow, please contact our DevOps team at devops@neuralvision-ai.com.
+For questions about this workflow, please contact our DevOps team at devops@omax.ai.com.
 
 ---
 
-© 2025 NeuralVision AI. All rights reserved.
+© 2025 OMAX.AI. All rights reserved.
